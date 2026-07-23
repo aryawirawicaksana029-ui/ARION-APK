@@ -1,5 +1,7 @@
 # 🚀 Arion Trader — Risk-First Trading Companion & Journaling App
 
+![Uploading ezgif.com-video-to-gif-converter (2).gif…]()
+
 <p align="center">
   <img src="./assets/icon.png" alt="Arion Trader Logo" width="120" style="border-radius: 20px;"/>
 </p>
@@ -18,10 +20,6 @@
 </p>
 
 ---
-
-## 📱 Demo Aplikasi
-
-
 
 ## 💡 Background & Problem Statement
 
