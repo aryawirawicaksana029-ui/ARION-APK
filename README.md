@@ -1,6 +1,6 @@
 # 🚀 Arion Trader — Risk-First Trading Companion & Journaling App
 
-![Uploading ezgif.com-video-to-gif-converter (2).gif…]()
+<img width="576" height="1280" alt="ezgif com-video-to-gif-converter (2)" src="https://github.com/user-attachments/assets/8f754865-2a50-4650-b1ea-ffe5acdddce1" />
 
 <p align="center">
   <img src="./assets/icon.png" alt="Arion Trader Logo" width="120" style="border-radius: 20px;"/>
