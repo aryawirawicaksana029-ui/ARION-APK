@@ -66,7 +66,7 @@ In capital markets, many beginner traders fail not due to poor technical analysi
 ## 🚀 Getting Started Locally
 
 ### Prerequisites
-Make sure you have Node.js (v18 or higher) and npm installed on your system.
+Make sure you have Node.js (v18 or higher) and npm installed on your system
 
 ### Installation
 
