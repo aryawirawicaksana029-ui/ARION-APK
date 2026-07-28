@@ -128,4 +128,4 @@ ARION-APK/
 
 ## 🤝 Contributing & Discussion
 
-Feedback, issues, and feature requests are welcome! Feel free to check the [issues page](https://www.google.com/search?q=../../issues) if you'd like to contribute.
+Feedback, issues, and feature requests are welcome! Feel free to check the [issues page](https://www.google.com/search?q=../../issues) if you'd like to contribute
